@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "server": "^1.0.32",
+    "sqlite3": "^5.0.2",
+    "uniq": "^1.0.1"
+  },
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "My sample webapp",
+  "main": "inddex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James",
+  "license": "ISC"
+}
